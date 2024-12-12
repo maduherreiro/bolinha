@@ -40,4 +40,10 @@ e se o jogador perder na tela ira aparecer "você perdeu" e os botões de reinic
 * escrita "VOCÊ PERDEU" HK Modular
 * e botões de "reiniciar" e "sair" a baixo
 
+# descrição bolinha
+* laranja,rosa,vermelho,roxo,amarelo,verde. Alternar cor da bolinha conforme o clique
+* lugar aleatório da tela a cada clique
+* mudar o tamanho 2% a menos cada clique 
+
+
   
